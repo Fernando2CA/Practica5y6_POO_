@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.p56_2","c":"Triangulo","l":"formTriangulo()"},{"p":"mx.unam.fi.poo.g1.p56_2","c":"Triangulo","l":"getFilas()"},{"p":"mx.unam.fi.poo.g1.p56_2","c":"Triangulo","l":"setFilas(int)"},{"p":"mx.unam.fi.poo.g1.p56_2","c":"Triangulo","l":"Triangulo(int)","u":"%3Cinit%3E(int)"}];updateSearchResults();
